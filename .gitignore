@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Local env
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Build/log
+*.log
+
+# DCS mission and extracted artifacts (do not publish proprietary content)
+*.miz
+_miz_*/
+_sample_trig_*/
+Work/
+
+# OS
+Thumbs.db
+.DS_Store
