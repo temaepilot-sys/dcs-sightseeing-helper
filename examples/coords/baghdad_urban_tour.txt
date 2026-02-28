@@ -1,0 +1,7 @@
+# Format:
+# Latitude / Longitude  # Label
+33deg05'37"N / 44deg34'50"E  # 01: Arch of Ctesiphon
+33deg20'19"N / 44deg23'17"E  # 02: Al-Mustansiriya University
+33deg18'18"N / 44deg23'25"E  # 03: Victory Arch (Crossed Swords)
+33deg21'13"N / 44deg12'08"E  # 04: Ziggurat of Aqar Quf
+33deg15'45"N / 44deg14'04"E  # 05: Baghdad Intl (Finish)

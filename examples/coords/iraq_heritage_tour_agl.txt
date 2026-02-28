@@ -1,0 +1,14 @@
+# Format:
+# Latitude / Longitude  # Label, optional agl=<meters>
+30deg33'00"N / 47deg40'00"E  # 01: Basra Intl, agl=350
+31deg00'18"N / 47deg26'28"E  # 02: Tree of Adam
+30deg48'57"N / 45deg59'45"E  # 03: Eridu, agl=420
+30deg57'45"N / 46deg06'11"E  # 04: Ziggurat of Ur
+31deg19'20"N / 45deg38'10"E  # 05: Uruk
+31deg59'46"N / 44deg18'51"E  # 06: Imam Ali Holy Shrine (Najaf)
+32deg37'00"N / 44deg02'00"E  # 07: Karbala
+32deg32'30"N / 44deg25'15"E  # 08: Babylon
+32deg32'00"N / 44deg36'00"E  # 09: Kish
+33deg21'13"N / 44deg12'08"E  # 10: Aqar Quf
+33deg20'19"N / 44deg23'17"E  # 11: Al-Mustansiriya
+33deg15'45"N / 44deg14'04"E  # 12: Baghdad Intl

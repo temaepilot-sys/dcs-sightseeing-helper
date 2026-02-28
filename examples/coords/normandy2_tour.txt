@@ -1,0 +1,13 @@
+# Format:
+# Latitude / Longitude  # Label # Description
+48deg48'16"N / 2deg07'13"E  # 01: Chateau de Versailles # Massive royal palace with meticulously detailed geometric gardens.
+49deg53'41"N / 2deg17'48"E  # 02: Amiens Cathedral # The largest Gothic cathedral in France with incredible stone-work modeling.
+49deg24'32"N / 1deg19'03"W  # 03: Sainte-Mere-Eglise # Famous church where you can find a tiny paratrooper stuck on the spire.
+49deg23'51"N / 0deg59'21"W  # 04: Pointe du Hoc # Heavily cratered clifftop battlefield from D-Day naval bombardments.
+49deg14'32"N / 0deg16'27"W  # 05: Pegasus Bridge # Iconic D-Day objective bridge over the Caen Canal.
+49deg55'40"N / 1deg04'55"E  # 06: Dieppe Harbour # Site of the 1942 raid, featuring detailed industrial and port structures.
+49deg20'35"N / 0deg41'40"W  # 07: Longues-sur-Mer Battery # Well-preserved German coastal artillery battery with casemates.
+51deg30'29"N / 0deg04'33"W  # 08: Tower of London # Historic fortress and palace situated on the north bank of the Thames.
+51deg30'24"N / 0deg04'53"W  # 09: HMS Belfast # Detailed model of the Town-class light cruiser moored on the Thames.
+51deg28'36"N / 0deg00'01"E  # 10: Greenwich Observatory # The historic site of the Prime Meridian on a hill overlooking the river.
+51deg07'43"N / 1deg19'22"E  # 11: Dover Castle # Massive medieval fortress guarding the shortest crossing to France.

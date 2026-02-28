@@ -35,6 +35,24 @@ python miz_route_builder.py ^
   --coords-file Normandy2Tour.txt
 ```
 
+## Sample coordinate files
+
+Sample files from this workspace are provided in `examples/coords/`.
+
+- `examples/coords/iraq_heritage_tour.txt`
+- `examples/coords/iraq_heritage_tour_agl.txt`
+- `examples/coords/baghdad_urban_tour.txt`
+- `examples/coords/normandy2_tour.txt`
+
+Example run:
+
+```powershell
+python miz_route_builder.py ^
+  --template Spitfire_Paris.miz ^
+  --output Spitfire_Paris_ROUTE.miz ^
+  --coords-file examples/coords/normandy2_tour.txt
+```
+
 ## Common options
 
 - `--group-name "Aerial-1"`: update a specific group (optional)
